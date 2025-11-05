@@ -19,6 +19,9 @@
 ■ 位置编码: 为什么需要它？这与着色器中处理高频细节的技术有何异同？
 ■ 分层采样: 这本质上是一种重要性采样，与传统光线追踪中的加速结构思想相通。
 ◦ 观看视频: 在YouTube上搜索"NeRF Explained"，有大量视频直观展示其原理，帮助建立直觉。
+2025.11.05 done-并将《NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis》的精读log 上传至e:\Emily-Personal\MyJourneyToNeuralRendering\LearningResources\learning_routing.md。
+
+
 2. 实践入门 (2-3周)
 ◦ 工具准备: 安装Python、PyTorch、CUDA。
 ◦ 复现经典实现: 在GitHub上找到yenchenlin/nerf-pytorch并成功运行。您的任务：
